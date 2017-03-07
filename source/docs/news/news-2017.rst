@@ -1,0 +1,61 @@
+.. Editors note, only list large changes/additions limit the list to 20 items
+
+.. When creating a new year page, move the ".. _news-latest:" anchor to that page.
+
+
+.. _news-latest:
+.. _news-2017:
+
+Cette page liste les principales modifications & aditions apportées à cette documentation.
+
+=====
+2017
+=====
+
+.. _news-2017-03-02:
+.. rst-class:: panel panel-default
+
+Refonte de l'aspect du site
+---------------------------------------
+
+2017-03-02 par |OTU|
+
+Complète refonte du site, en adoptant le thème rtd + t3
+
+
+.. _news-2017-01-12:
+.. rst-class:: panel panel-default
+
+Ajout d'un guide : création
+---------------------------------------
+
+**Guide 01** : Création initiale, voire  :ref:`autocad-guide01`, Jan. 28.
+
+En attendant les corrections ....
+
+
+.. _news-2017-02-22:
+.. rst-class:: panel panel-default
+
+Modification d'un Tutoriel
+---------------------------------------
+
+**Tutoriel 01** : ajout d'un paragraphe, voire :ref:`autocad-tut01_mod-Jan20`, Jan. 20
+
+
+
+
+
+
+..
+   :ref:`autocad-tut01-mod`
+
+..
+   - :doc:`New Pipeline Section </pipeline/index>`
+  (`rBM3026 <https://developer.blender.org/rBM3026>`__, Dec. 7).
+  - :doc:`Track Position node </compositing/types/input/track_position>`
+  (`rBM3014 <https://developer.blender.org/rBM3014>`__, Dec. 6).
+  - :doc:`Inpaint node </compositing/types/filter/inpaint>`
+  (`rBM3011 <https://developer.blender.org/rBM3011>`__, Dec. 6).
+  - :doc:`Glare node </compositing/types/filter/glare>`
+  (`rBM2998 <https://developer.blender.org/rBM2998>`__, Dec. 5).

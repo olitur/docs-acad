@@ -1,0 +1,67 @@
+.. Editors note, only list large changes/additions limit the list to 20 items
+
+.. When creating a new year page, move the ".. _news-latest:" anchor to that page.
+
+.. _news-2016:
+
+====
+2016
+====
+
+
+.. highlight:: shell
+
+
+.. _news-2016-12-28:
+.. rst-class:: panel panel-default
+
+The ultimate explanation of optionSplit
+---------------------------------------
+
+2016-12-28 by Martin Bless
+
+So you think you really understand what the TypoScript
+function does? Maybe, but better do a quick check:
+What is the result of `wrap = a|*|r|||||||*|z`?
+
+
+Is there something still missing?
+
+.. _news-2016-06-30:
+.. rst-class:: panel panel-default
+
+Improved Theme: Now it's version 3.6.0
+--------------------------------------
+
+2016-06-30 by Martin Bless
+
+`Several issues <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/commit/e22dd5d567165dbad817a983fcae1dabdc3efab2>`__
+with the theme are fixed now. And the `README of the repository
+<https://github.com/TYPO3-Documentation/t3SphinxThemeRtd>`__
+now has a pointer to the DEMO DOCS `t3SphinxThemeRtdDemoDocs
+<https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/t3SphinxThemeRtdDemoDocs/>`__
+which are kind of a "stresstest" for the theme and demonstrate what's possible.
+
+New: A `.. rst-class:: panel panel-default` right before a section (headline) will give it a Twitter-Bootstrap
+-like "panel" styling as you can see on this page with the latest news.
+
+New: The theme is version 3.6.0 now. Get it the regular way from `PyPi <https://pypi.python.org/pypi>`__
+by doing:
+
+`sudo pip install --upgrade t3SphinxThemeRtd`
+
+Enjoy!
+
+
+..
+   :ref:`autocad-tut01-mod`
+
+..
+   - :doc:`New Pipeline Section </pipeline/index>`
+  (`rBM3026 <https://developer.blender.org/rBM3026>`__, Dec. 7).
+  - :doc:`Track Position node </compositing/types/input/track_position>`
+  (`rBM3014 <https://developer.blender.org/rBM3014>`__, Dec. 6).
+  - :doc:`Inpaint node </compositing/types/filter/inpaint>`
+  (`rBM3011 <https://developer.blender.org/rBM3011>`__, Dec. 6).
+  - :doc:`Glare node </compositing/types/filter/glare>`
+  (`rBM2998 <https://developer.blender.org/rBM2998>`__, Dec. 5).

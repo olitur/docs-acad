@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /_downloads/
+Disallow: /_images/
+Disallow: /_static/
+Disallow: /_themes/
+Disallow: /.buildinfo
+Disallow: /motpass

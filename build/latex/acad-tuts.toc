@@ -1,0 +1,44 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}AutoCAD : Tutoriel 01}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Structure du dossier \sphinxstylestrong {docs}}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}An introduction for web designers}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Videos}{4}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Minimizing images}{4}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Allô ?}{5}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Driver Variables}{5}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Workflow}{5}{subsection.1.2.5}
+\contentsline {subsubsection}{Transform Driver}{5}{subsubsection*.3}
+\contentsline {subsubsection}{Drivers And Multiple Relative Shape Keys}{7}{subsubsection*.4}
+\contentsline {subsubsection}{From common CMS to Odoo}{8}{subsubsection*.5}
+\contentsline {subsection}{\numberline {1.2.6}Composition of a module}{8}{subsection.1.2.6}
+\contentsline {section}{\numberline {1.3}Render Border}{8}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Undo}{10}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Redo}{10}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Undo History}{11}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Repeat Last}{12}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}Repeat History}{13}{subsection.1.3.5}
+\contentsline {section}{\numberline {1.4}Configuring PDF rendering}{15}{section.1.4}
+\contentsline {section}{\numberline {1.5}Commandes GIT}{16}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Récupérer des fichiers supprimés en local}{16}{subsection.1.5.1}
+\contentsline {subsubsection}{Avant}{16}{subsubsection*.6}
+\contentsline {subsubsection}{Pendant}{16}{subsubsection*.7}
+\contentsline {subsection}{\numberline {1.5.2}Télécharger \sphinxstylestrong {un seul} fichier depuis un dépôt distant Github}{17}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Module structure}{17}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Usage}{18}{subsection.1.5.4}
+\contentsline {subsubsection}{Start lessons}{19}{subsubsection*.8}
+\contentsline {subsubsection}{Remotes}{19}{subsubsection*.9}
+\contentsline {subsubsection}{Branches}{21}{subsubsection*.10}
+\contentsline {subsubsection}{Staging}{21}{subsubsection*.11}
+\contentsline {subsubsection}{SHA1}{21}{subsubsection*.12}
+\contentsline {subsection}{\numberline {1.5.5}Basic development workflow}{21}{subsection.1.5.5}
+\contentsline {subsection}{\numberline {1.5.6}Minimizing images}{22}{subsection.1.5.6}
+\contentsline {subsection}{\numberline {1.5.7}Using GitHub pages}{22}{subsection.1.5.7}
+\contentsline {subsection}{\numberline {1.5.8}Flutuat nec mergitur 1}{23}{subsection.1.5.8}
+\contentsline {subsection}{\numberline {1.5.9}Flutuat nec mergitur 2}{24}{subsection.1.5.9}
+\contentsline {subsection}{\numberline {1.5.10}Flutuat nec mergitur 3}{26}{subsection.1.5.10}
+\contentsline {chapter}{\numberline {2}AutoCAD : Tutoriel 02}{29}{chapter.2}
+\contentsline {section}{\numberline {2.1}An introduction for web designers}{30}{section.2.1}
+\contentsline {section}{\numberline {2.2}From common CMS to Odoo}{30}{section.2.2}
+\contentsline {section}{\numberline {2.3}Flutuat nec mergitur 1}{30}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Flutuat nec mergitur 2}{32}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Flutuat nec mergitur 3}{33}{subsection.2.3.2}
